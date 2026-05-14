@@ -16,6 +16,11 @@ const Header = () => {
           />
           <FaSearch className="text-slate-600" />
         </form>
+        <ul className="flex gap-4">
+          <li className="hidden sm:inline">Home</li>
+          <li>About</li>
+          <li>Sign In</li>
+        </ul>
       </div>
     </header>
   );
