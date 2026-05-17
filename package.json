@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/umersaif11/mern-real-estate/issues"
   },
-  "homepage": "https://github.com/umersaif11/mern-real-estate#readme"
+  "homepage": "https://github.com/umersaif11/mern-real-estate#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
