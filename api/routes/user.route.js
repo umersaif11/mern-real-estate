@@ -7,3 +7,5 @@ router.get("/test", (req, res) => {
     message: "Welcome to the User API!",
   });
 });
+
+export default router;
